@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Follow on Twitter](https://img.shields.io/twitter/follow/MaterialUI.svg?label=follow+Material-UI)](https://twitter.com/19_027)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/MaterialUI.svg?label=follow+Gabut-IT)](https://twitter.com/19_027)
   
 </div>
 
