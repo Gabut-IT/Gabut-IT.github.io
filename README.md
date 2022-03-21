@@ -2,7 +2,7 @@
 ![icon](https://github.com/Gabut-IT/Gabut-IT.github.io/blob/main/assets/img/banner1.png)
 
 <div align="center">
-[![Follow on Twitter](https://img.shields.io/twitter/follow/MaterialUI.svg?label=follow+Material-UI)](https://twitter.com/19_027)
+![Follow on Twitter](https://img.shields.io/twitter/follow/MaterialUI.svg?label=follow+Material-UI)](https://twitter.com/19_027)
 </div>
 
 ### web galeri projek  
