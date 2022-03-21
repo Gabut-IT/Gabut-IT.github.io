@@ -2,7 +2,10 @@
 ![icon](https://github.com/Gabut-IT/Gabut-IT.github.io/blob/main/assets/img/banner1.png)
 
 <div align="center">
- ![gabut-it] (https://img.shields.io/twitter/follow/19_027?style=social)
+
+ ![Twitter Follow](https://img.shields.io/twitter/follow/19_027?style=social)
+ ![GitHub followers](https://img.shields.io/github/followers/ZakaFahmi?style=social)
+ ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHK61hjmhnbGiVzrt5c4Vzw?style=social)
   
 </div>
 
