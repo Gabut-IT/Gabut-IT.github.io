@@ -22,3 +22,5 @@ keterangan :
 web ini opensorce jadi boleh digunakan kembali 
 <br>
 link web Gabut-IT :  https://gabut-it.github.io/
+<br>
+Link : web resmi sekarang di ganti ke : https://gabut-it.com/
